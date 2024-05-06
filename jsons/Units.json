@@ -1826,7 +1826,7 @@
 		"cost": 150,
 		"requiredTech": "Steel",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Cuirasser",
+		"upgradesTo": "Cuirassier",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","[+10]% Strength <when attacking>", "Consumes [1] [Horses]", "Consumes [1] [Iron]"],
 		"attackSound": "horse"
 	},
@@ -1839,7 +1839,7 @@
 		"strength": 26,
 		"cost": 165,
 		"requiredTech": "Chivalry",
-		"upgradesTo": "Cuirasser",
+		"upgradesTo": "Cuirassier",
 		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight","[+10]% Strength <when attacking>", "Consumes [1] [Horses]", "Consumes [1] [Iron]"],
 		"promotions": ["[Conquistador] ability"],
@@ -1857,7 +1857,7 @@
 		"cost": 150,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Cuirasser",
+		"upgradesTo": "Cuirassier",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>","[+10]% Strength <when attacking>", "[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
@@ -1876,7 +1876,7 @@
 	{
 		"name": "Hakkapeliitta",
 		"unitType": "Mounted",
-		"replaces": "Cuirasser",
+		"replaces": "Cuirassier",
 		"uniqueTo": "Sweden",
 		"movement": 4,
 		"strength": 27,
@@ -1891,7 +1891,7 @@
 	{
 		"name": "Qing Banner Cavalry",
 		"unitType": "Mounted",
-		"replaces": "Cuirasser",
+		"replaces": "Cuirassier",
 		"uniqueTo": "China",
 		"movement": 4,
 		"strength": 27,
