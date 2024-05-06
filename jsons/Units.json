@@ -1862,7 +1862,7 @@
 		"attackSound": "elephant"
 	},
 	{
-		"name": "Cuirasser",
+		"name": "Cuirassier",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 27,
